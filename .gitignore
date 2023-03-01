@@ -31,7 +31,6 @@
 *.obj
 *.o
 *.sbr
-*.bin
 
 # Build files
 # define exception below if needed
@@ -46,7 +45,6 @@ Objects
 Output
 DebugConfig
 JLinkLog.txt
-project/*.bin
 
 # Debugger files
 # define exception below if needed
