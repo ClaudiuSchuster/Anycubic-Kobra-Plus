@@ -1,6 +1,6 @@
 # Anycubic Kobra Plus Firmware 2.8.6 (LIN_ADVANCE enabled & disabled)
 ## Hc32f460kct6 Marlin - Forked from https://github.com/ANYCUBIC-3D/Kobra_Plus
-## Download builds from [releases](https://github.com/ClaudiuSchuster/Kobra_Plus/releases) section
+## Download builds from [releases](https://github.com/ClaudiuSchuster/Anycubic-Kobra-Plus/releases) section
 ## Build Info
 - First of all, download and install Keil v5.36, do not install v5.37 as it doesn't ship with ARM Compiler v5.06 -> [MDK536.EXE](buildEnvironment/MDK536.EXE) / [alternative external download](https://armkeil.blob.core.windows.net/eval/MDK536.EXE)
 
